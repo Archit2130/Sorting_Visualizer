@@ -1,8 +1,10 @@
 # Sorting_Visualizer
 Group Members-
-Archit Srivastava (21SCSE1010314)
-Aviral Mathur (21SCSE1010936)
-Anusha Agarwal (21SCSE1011116)
+## Archit Srivastava (21SCSE1010314)
+## Aviral Mathur (21SCSE1010936)
+## Anusha Agarwal (21SCSE1011116)
+
+
 A web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:
